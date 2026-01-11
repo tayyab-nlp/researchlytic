@@ -246,3 +246,69 @@ This is a **portfolio project** showcasing advanced research analytics capabilit
 ## 🏷️ Tags
 
 `research-analytics` `academic-research` `publication-trends` `scholarly-data` `research-metrics` `citation-analysis` `research-intelligence` `academic-analytics` `data-visualization` `research-discovery`
+
+---
+
+## 📁 WordPress Theme
+
+The `researchlytic/` folder contains the **WordPress theme** that powers the Researchlytic platform dashboard and user interface. This theme provides the frontend presentation layer for the research analytics platform.
+
+### 🗂️ Folder Structure
+
+```
+researchlytic/
+├── assets/                      # Static assets
+│   ├── css/                     # Stylesheets
+│   │   ├── footer.css
+│   │   └── trend.css
+│   ├── images/                  # Images and icons
+│   │   ├── ideas/              # Research ideas section images
+│   │   ├── index/              # Homepage images
+│   │   ├── literature/         # Literature search images
+│   │   ├── opengraph/          # Social media preview images
+│   │   ├── reference/          # Reference manager images
+│   │   └── trend/              # Trend analysis images
+│   └── js/                      # JavaScript files
+│       ├── ideas.js
+│       ├── index.js
+│       ├── literature.js
+│       ├── reference.js
+│       └── trend.js
+│
+├── screenshots/                 # Platform screenshots for documentation
+│
+├── header-*.php                # Header templates for different pages
+├── template-*.php              # Page templates
+│   ├── template-home.php       # Homepage template
+│   ├── template-dashboard.php  # User dashboard
+│   ├── template-ideas.php      # Research ideas generator
+│   ├── template-literature.php # Literature search
+│   ├── template-trend.php      # Trend analysis
+│   ├── template-reference.php  # Reference manager
+│   ├── template-login.php      # User authentication
+│   └── ...
+│
+├── functions.php               # Theme functions and hooks
+├── style.css                   # Main theme stylesheet
+├── index.php                   # Main template file
+├── footer.php                  # Footer template
+├── header.php                  # Default header template
+├── single.php                  # Single post template
+├── page.php                    # Page template
+├── archive.php                 # Archive template
+├── search.php                  # Search results template
+├── 404.php                     # 404 error page
+└── screenshot.png              # Theme screenshot
+```
+
+### 🎨 Theme Features
+
+- **Custom Page Templates**: Specialized templates for trends, literature search, ideas generation, and reference management
+- **Responsive Design**: Mobile-friendly layouts across all features
+- **Interactive Visualizations**: JavaScript-powered charts and analytics displays
+- **User Authentication**: Login, signup, and dashboard functionality
+- **Modular Assets**: Organized CSS and JavaScript for each platform feature
+
+---
+
+**Developed by [Tayyab M.](https://tayyab.io)** 🚀
