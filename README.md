@@ -230,7 +230,7 @@ Stay current with the most recent publications, emerging trends, and cutting-edg
 **Interested in research analytics or want to discuss collaboration opportunities?**
 
 - 🌐 **Website**: [researchlytic.com](https://researchlytic.com)  
-- 💼 **LinkedIn**: [muhammad-tayyab-nlp](https://www.linkedin.com/in/muhammad-tayyab-nlp)
+- 💼 **LinkedIn**: [tayyab-nlp](https://www.linkedin.com/in/tayyab-nlp)
 - 📧 **Contact**: Get in touch for partnerships, feedback, or custom analytics solutions
 
 ---
